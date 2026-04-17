@@ -6,7 +6,7 @@ A simple Python project that tracks procrastination habits by logging what you s
 - User input tracking
 - Procrastination counter
 - Simple summary output
-
+Updated Progress
 ## Sprint 1 Progress
 - Created repository
 - Added README
