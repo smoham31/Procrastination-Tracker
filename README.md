@@ -1,11 +1,13 @@
 # Procrastination Tracker
 
-## Description
-This is a Python program that tracks procrastination. Users will enter what they should be doing and what they did instead. The program will keep track of habits and display simple statistics.
+A simple Python project that tracks procrastination habits by logging what you should be doing vs what you did instead.
 
 ## Features
-- Log tasks you should be doing
-- Log what you did instead
-- Count how many times you procrastinate
-- Display simple stats
+- User input tracking
+- Procrastination counter
+- Simple summary output
 
+## Sprint 1 Progress
+- Created repository
+- Added README
+- Created main.py with basic functionality
